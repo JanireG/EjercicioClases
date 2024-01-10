@@ -10,6 +10,7 @@ public class Tren {
         this.jefe=jefe;
         this.MaquinaTractora=MaquinaTractora;
         this.Vagon=Vagon;
+
     }
 
 }
